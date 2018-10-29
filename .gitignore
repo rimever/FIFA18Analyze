@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# データは自分でダウンロードしてもらう
+CompleteDataset.csv
